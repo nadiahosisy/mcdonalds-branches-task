@@ -12,7 +12,6 @@ import DataTable from "primevue/datatable";
 import Column from "primevue/column";
 import Dropdown from "primevue/dropdown";
 import InputText from "primevue/inputtext";
-import Button from "primevue/button";
 import Paginator from "primevue/paginator";
 
 // PrimeVue theme
@@ -42,7 +41,6 @@ app.component("DataTable", DataTable);
 app.component("Column", Column);
 app.component("Dropdown", Dropdown);
 app.component("InputText", InputText);
-app.component("Button", Button);
 app.component("Paginator", Paginator);
 
 app.mount("#app");
