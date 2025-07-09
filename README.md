@@ -97,7 +97,6 @@ The application features:
 
 - Clean, professional layout with 1400px max width
 - Bordered sections for visual organization
-- Responsive grid layout for filters
 - PrimeVue's Aura theme for consistency
 - Scrollable table with 400px height and pagination
 - Intuitive navigation and interaction patterns
