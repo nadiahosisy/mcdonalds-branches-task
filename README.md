@@ -42,7 +42,7 @@ A responsive web application built with Vue.js 3 and PrimeVue that displays McDo
 1. **Clone or download the project**
 
    ```bash
-   cd Macdonalds-Branches-Task
+   cd mcdonalds-branches-task
    ```
 
 2. **Install dependencies**
